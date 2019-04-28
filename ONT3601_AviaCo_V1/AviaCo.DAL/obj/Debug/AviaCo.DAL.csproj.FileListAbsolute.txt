@@ -1,0 +1,15 @@
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.DAL\obj\Debug\AviaCo.DAL.csprojAssemblyReference.cache
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.DAL\obj\Debug\AviaCo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.DAL\bin\Debug\AviaCo.DAL.dll
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.DAL\bin\Debug\AviaCo.DAL.pdb
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.DAL\obj\Debug\AviaCo.DAL.dll
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.DAL\obj\Debug\AviaCo.DAL.pdb
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\bin\Debug\AviaCo.DAL.dll
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\bin\Debug\AviaCo.DAL.pdb
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\bin\Debug\AviaCo.TypeLibrary.dll
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\bin\Debug\AviaCo.TypeLibrary.pdb
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\obj\Debug\AviaCo.DAL.csprojAssemblyReference.cache
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\obj\Debug\AviaCo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\obj\Debug\AviaCo.DAL.csproj.CopyComplete
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\obj\Debug\AviaCo.DAL.dll
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.DAL\obj\Debug\AviaCo.DAL.pdb

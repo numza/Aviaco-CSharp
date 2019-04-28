@@ -1,0 +1,20 @@
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\bin\Debug\AviaCo.BLL.dll
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\bin\Debug\AviaCo.BLL.pdb
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\bin\Debug\AviaCo.DAL.dll
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\bin\Debug\AviaCo.DAL.pdb
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\obj\Debug\AviaCo.BLL.csprojAssemblyReference.cache
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\obj\Debug\AviaCo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\obj\Debug\AviaCo.BLL.csproj.CopyComplete
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\obj\Debug\AviaCo.BLL.dll
+C:\Users\dieter\Documents\Visual Studio 2017\Projects\ONT3601_AviaCo\AviaCo.BLL\obj\Debug\AviaCo.BLL.pdb
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\bin\Debug\AviaCo.BLL.dll
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\bin\Debug\AviaCo.BLL.pdb
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\bin\Debug\AviaCo.DAL.dll
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\bin\Debug\AviaCo.TypeLibrary.dll
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\bin\Debug\AviaCo.TypeLibrary.pdb
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\bin\Debug\AviaCo.DAL.pdb
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\obj\Debug\AviaCo.BLL.csprojAssemblyReference.cache
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\obj\Debug\AviaCo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\obj\Debug\AviaCo.BLL.csproj.CopyComplete
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\obj\Debug\AviaCo.BLL.dll
+C:\Users\dieter\Documents\Academic Stuff\2019\ONT3601\Solutions\ONT3601_AviaCo_V1\AviaCo.BLL\obj\Debug\AviaCo.BLL.pdb
